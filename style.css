@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Courier New'; 
+    color: white;
+}
+
+h2 {
+    font-family: 'Courier New'; 
+    color: #CFB53B;
+}
+
+h3 {
+    font-family: 'Courier New'; 
+    color: #CFB53B;
+}
+
+p {
+    font-family: 'Didact Gothic'; 
+    color: white;
+}
+
+li {
+    font-family: 'Didact Gothic'; 
+    color: #B0E0E6;
+}
